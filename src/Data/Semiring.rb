@@ -1,4 +1,4 @@
-def self add_
+def self.add_
   lambda do |a|
     lambda do |b|
       a + b
@@ -6,7 +6,7 @@ def self add_
   end
 end
 
-def self mul_
+def self.mul_
   lambda do |a|
     lambda do |b|
       a * b
