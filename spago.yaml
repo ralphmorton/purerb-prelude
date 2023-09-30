@@ -1,0 +1,12 @@
+package:
+  dependencies: []
+  name: purerb-prelude
+workspace:
+  backend:
+    cmd: purerb
+    args:
+      - "build"
+      - "rb"
+  extra_packages: {}
+  package_set:
+    registry: 42.1.0

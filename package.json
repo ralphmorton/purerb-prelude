@@ -1,0 +1,24 @@
+{
+  "name": "purescript-purerb-prelude",
+  "version": "0.0.1",
+  "description": "Purerb prelude",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphmorton/purerb.git"
+  },
+  "author": "Ralph Morton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphmorton/purerb/issues"
+  },
+  "homepage": "https://github.com/ralphmorton/purerb#readme",
+  "devDependencies": {
+    "esbuild": "^0.19.4",
+    "purescript": "^0.15.10",
+    "spago": "^0.93.14"
+  }
+}
